@@ -1,4 +1,4 @@
-package Sample1;
+package sample1;
 
 public class UserBuilder {
     private String name;

@@ -1,4 +1,4 @@
-package Sample1
+package sample1
 
 fun main(args: Array<String>) {
     val user = User("Pera", "Peric", "pera.peric@mail.com", 12)
